@@ -4,3 +4,4 @@ saving all neo pat solutions here
 3 =5;
 4 =5;
 5 =5;
+Total= 26;
