@@ -1,0 +1,1 @@
+In this example, we demonstrate how to declare a byte variable, assign a value within its range, and print the output in Java. This method provides a simple way to store small integer values efficiently.
