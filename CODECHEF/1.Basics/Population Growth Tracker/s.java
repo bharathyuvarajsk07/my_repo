@@ -1,13 +1,13 @@
 class Codechef {
     public static void main (String[] args) {
-        // 1. Declare currentPopulation as int and assign 1500000
-        int currentPopulation = 1500000;
+        // 1. Use int for the large city population
+        int cityPopulation = 5000000;  
 
-        // 2. Declare growthRate as int and assign 5000
-        int growthRate = 5000;
+        // 2. Use short for the smaller district population
+        short districtPopulation = 25000;  
 
-        // 3. Print both values in the required format
-        System.out.println("Current Population: " + currentPopulation);
-        System.out.println("Annual Growth Rate: " + growthRate);
+        // 3. Print with the exact labels requested
+        System.out.println("City Population: " + cityPopulation);
+        System.out.println("District Population: " + districtPopulation);
     }
 }
